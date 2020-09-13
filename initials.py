@@ -9,5 +9,5 @@ for name in names:
 
 print("Your initials are:", end=' ')
 for i in initials:
-	print(f'{i}', end='')
+	print(f'{i.upper()}', end='')
 print('')
