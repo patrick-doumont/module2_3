@@ -11,3 +11,5 @@ print("Your initials are:", end=' ')
 for i in initials:
 	print(f'{i.upper()}', end='')
 print('')
+
+# This is a comment to test windows GUI app.
